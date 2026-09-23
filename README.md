@@ -38,7 +38,7 @@ Circle a question on your own notes and get a correct, interactive 3D visual of 
 <a href="https://youtu.be/BkNV1k_u6zc"><img src="https://img.youtube.com/vi/BkNV1k_u6zc/hqdefault.jpg" width="420" alt="StudyBuddy demo"></a>
 
 #### StudyValley
-_[One-line description: what it does and what it was built for]_
+Just a fun site for a Yishun AI hackathon, uses an agent to remember what students were last stuck on because community tuition tutors might not be the same every week
 
 [Demo video](https://youtu.be/edaq468BSaM)
 
