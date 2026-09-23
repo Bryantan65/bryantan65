@@ -4,13 +4,11 @@ Computer Science at NTU (Nanyang Global Scholar), based in Singapore. I build te
 
 ### What I'm working on
 
-**Full-stack developer at MINDS** (Movement for the Intellectually Disabled of Singapore), building internal tools used by staff every day:
+**Full-stack developer at MINDS** one of Singapores largest and oldest agencies for persons with intellectual disabilities, building internal tools used by staff every day:
 
 - A student routing system for 1,400+ students that replaced a manual Excel process (React, FastAPI, Cloud Run)
 - A location-tracking app for the Enabled Living Programme, now in phased rollout (React Native, GCP)
 - A shared admissions system across four special education schools
-
-*This code is private. Happy to walk through it on a call.*
 
 ---
 
